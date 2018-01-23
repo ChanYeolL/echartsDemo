@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <ul>
       <li>
-        <h2><a routerLink="echarts" routerLinkActive="active">Pipe</a></h2>
+        <h2><a routerLink="echarts" routerLinkActive="active">echarts</a></h2>
       </li>
     </ul>
     <router-outlet></router-outlet>

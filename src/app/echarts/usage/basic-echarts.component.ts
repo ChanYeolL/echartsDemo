@@ -65,7 +65,7 @@ export class BasicEchartsComponent implements OnInit {
       ],
       animationEasing: 'elasticOut',
       animationDelayUpdate: function (idx) {
-        return idx * 5;
+        return idx * 50;
       }
     };
   }
