@@ -159,6 +159,7 @@
                     areaColor: '#ddd'
                 },
                 emphasis: {
+                  //fe994e
                     areaColor: '#fe994e'
                 }
             }
